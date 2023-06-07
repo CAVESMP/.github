@@ -1,8 +1,7 @@
 <p align="center">
   <picture>
-    <source
-      width="256px"
-      srcset="https://github.com/CAVESMP/.github/blob/main/profile/cavesmp-logo.png"
+    <img 
+      src="https://github.com/CAVESMP/.github/blob/main/profile/cavesmp-logo.png"
     >
   </picture>
 </p>
