@@ -1,1 +1,1 @@
-![CAVESMP Logo](https://github.com/CAVESMP/branding-assets/blob/main/assets/logos/general-logo/cavesmp-logo-bigger-canvas.png)
+![CAVESMP Fireworks Banner](https://github.com/CAVESMP/branding-assets/blob/main/assets/banners/cavesmp-fireworks-banner.png)
