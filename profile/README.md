@@ -2,7 +2,7 @@
   <picture>
     <source
       width="256px"
-      srcset=""
+      srcset="https://github.com/CAVESMP/.github/blob/main/profile/cavesmp-logo.png"
     >
   </picture>
 </p>
