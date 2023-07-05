@@ -16,7 +16,7 @@ We share on the GitHub our modpacks, server files, discord bot, website & more t
 ### What repos could be open for public?
 Our modpacks & assets (like logos, wallpapers, etc) are likely to be open for the public somewhere in the future.
 Our repos of our website(s), files we use for the server hosting & discord bot(s) are very & very unlikely to be open for the public to see.
-Don't get your hopes up, all the repositories can be private indefenitly at all times.
+Don't get your hopes up, all the repositories can be private indefinitely at all times.
 
 ### How can I join the CAVESMP?
 Only friends of GGCreeperXD & the friends of the members already in the CAVESMP can invite their friends.
