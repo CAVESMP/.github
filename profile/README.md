@@ -19,7 +19,8 @@ Our repos of our website(s), files we use for the server hosting & discord bot(s
 Don't get your hopes up, all the repositories can be private indefinitely at all times.
 
 ### How can I join the CAVESMP?
-Only friends of GGCreeperXD & the friends of the members already in the CAVESMP can invite their friends.
+The CAVESMP is a private SMP. Only close friends of the members can get a invite to join the SMP.
+Do not ask for an invite at all times.
 
 ### How can I be a developer for the CAVESMP?
 Only server members of the CAVESMP can help develop the CAVESMP (from creating a modpack to developing & updating a website with HTML, CSS, JS, PHP & MySQL to creating a Minecraft mod with Java).
