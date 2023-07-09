@@ -26,5 +26,5 @@ Do not ask for an invite at all times.
 Only server members of the CAVESMP can help develop the CAVESMP (from creating a modpack to developing & updating a website with HTML, CSS, JS, PHP & MySQL to creating a Minecraft mod with Java).
 
 ### Does the CAVESMP have a website or is the CAVESMP on Social Media?
-The CAVESMP does have a website (which is actually still in the making, but is accessible): https://www.cavesmp.com/
+The CAVESMP does have a website (which is actually still in the making, but is accessible): https://www.cavesmp.com/.
 We also have a YouTube channel (https://www.youtube.com/@CAVESMP_DEV) and this GitHub.
