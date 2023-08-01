@@ -1,6 +1,8 @@
 <p align="center">
   <img 
     src="https://github.com/CAVESMP/cavesmp-website/blob/main/assets/album-art/build-songs-of-the-cavesmp.png"
+    width="500px"
+    height="500px"
   >
 </p>
 <p align="center">
