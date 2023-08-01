@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <img 
-      src="https://github.com/CAVESMP/.github/blob/main/profile/cavesmp-logo.png"
+      src="https://github.com/CAVESMP/cavesmp-website/blob/main/assets/album-art/build-songs-of-the-cavesmp.png"
     >
   </picture>
 </p>
