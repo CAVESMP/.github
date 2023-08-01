@@ -1,9 +1,7 @@
 <p align="center">
-  <picture>
-    <img 
-      src="https://github.com/CAVESMP/cavesmp-website/blob/main/assets/album-art/build-songs-of-the-cavesmp.png"
-    >
-  </picture>
+  <img 
+    src="https://github.com/CAVESMP/cavesmp-website/blob/main/assets/album-art/build-songs-of-the-cavesmp.png"
+  >
 </p>
 <p align="center">
   The CAVESMP is a private modded Minecraft Java Edition server with storyline events
