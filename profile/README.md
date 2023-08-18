@@ -1,4 +1,4 @@
-![CAVESMP TF2 Album Art Inspiration](https://github.com/CAVESMP/cavesmp-website/blob/main/assets/album-art/build-songs-of-the-cavesmp.png)
+![](https://github.com/CAVESMP/cavesmp-website/blob/main/assets/album-art/build-songs-of-the-cavesmp.png)
 <p align="center">
   The CAVESMP is a private modded Minecraft Java Edition server with storyline events
 </p>
