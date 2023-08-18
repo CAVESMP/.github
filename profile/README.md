@@ -2,7 +2,7 @@
   <img 
     src="https://github.com/CAVESMP/cavesmp-website/blob/main/assets/older-png-files/posters/post-S1-poster.png"
     width="500px"
-    height="500px"
+    height="1500px"
   >
 </p>
 <p align="center">
