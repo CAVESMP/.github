@@ -1,4 +1,4 @@
-![](build-songs-of-the-cavesmp.png)
+![](https://github.com/CAVESMP/.github/blob/main/profile/build-songs-of-the-cavesmp.png)
 <p align="center">
   The CAVESMP is a private modded Minecraft Java Edition server with storyline events
 </p>
