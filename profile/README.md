@@ -1,3 +1,6 @@
+<p align="center">
+  &darr; Scroll down for Organization Information! &darr;
+</p>
 ![https://github.com/CAVESMP](https://github.com/CAVESMP/.github/blob/main/profile/guardians_of_the_multiverze.png)
 <p align="center">
   The CAVESMP is a private modded Minecraft Java Edition server with storyline events
