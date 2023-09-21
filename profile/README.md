@@ -1,5 +1,5 @@
 <p align="center">
-  Scroll down for Organization Information!
+  &darr; Scroll down for Organization Information! &darr;
 </p>
 
 ![Guardians of the Multiverze](https://github.com/CAVESMP/.github/blob/main/profile/guardians_of_the_multiverze.png)
