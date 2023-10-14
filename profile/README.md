@@ -2,7 +2,7 @@
   &darr; Scroll down for Organization Information! &darr;
 </p>
 
-![Guardians of the Multiverze](https://github.com/CAVESMP/.github/blob/main/profile/guardians_of_the_multiverze_transparent.png)
+![Build Songs Season 2](https://github.com/CAVESMP/.github/blob/main/profile/build-songs-cavesmp-s2.png)
 <p align="center">
   The CAVESMP is a private modded Minecraft Java Edition server with storyline events
 </p>
