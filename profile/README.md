@@ -23,3 +23,7 @@ Do not ask for an invite at all times.
 ### How can I be a developer for the CAVESMP?
 Only server members of the CAVESMP can help develop the CAVESMP (from creating a modpack to developing & updating a website with HTML, CSS, JS, PHP & MySQL to creating a Minecraft mod with Java).
 If you are a member of the CAVESMP and want access to the Organization, hit me up in the Discord server!
+
+# Multiverze of SMPS on GitHub
+The Multiverze has it's own GitHub page here:
+https://github.com/multiverze-of-smps
