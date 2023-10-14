@@ -25,5 +25,5 @@ Only server members of the CAVESMP can help develop the CAVESMP (from creating a
 If you are a member of the CAVESMP and want access to the Organization, hit me up in the Discord server!
 
 # Multiverze of SMPS on GitHub
-The Multiverze has it's own GitHub page here:
+The Multiverze has it's own GitHub page:
 https://github.com/multiverze-of-smps
