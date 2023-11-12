@@ -2,7 +2,7 @@
   &darr; Scroll down for Organization Information! &darr;
 </p>
 
-![Build Songs Season 2](https://github.com/CAVESMP/.github/blob/main/profile/cavesmp_logo_animations.png)
+![CAVESMP Logo](https://github.com/CAVESMP/.github/blob/main/profile/cavesmp_logo_transparent.png)
 <p align="center">
   The CAVESMP is a private modded Minecraft Java Edition server with storyline events
 </p>
