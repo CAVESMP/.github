@@ -2,8 +2,8 @@
   &darr; Scroll down for Organization Information! &darr;
 </p>
 
-<div margin="auto">
-  <img src="https://github.com/CAVESMP/.github/blob/main/profile/they_are_ready_only_logo.png">
+<div margin="auto" width="50%">
+  <img src="https://github.com/CAVESMP/.github/blob/main/profile/they_are_ready_only_logo.png"/>
 </div>
 
 <p align="center">
