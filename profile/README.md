@@ -1,9 +1,8 @@
 <p align="center">
   &darr; Scroll down for Organization Information! &darr;
 </p>
-<a align="center">
-![S2 poster](https://github.com/CAVESMP/.github/blob/main/profile/they_are_ready_only_logo.png)
-</a>
+<img src="https://github.com/CAVESMP/.github/blob/main/profile/they_are_ready_only_logo.png" align="center">
+
 <p align="center">
   The CAVESMP is a private modded Minecraft Java Edition server with storyline events
 </p>
