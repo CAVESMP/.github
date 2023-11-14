@@ -2,7 +2,7 @@
   &darr; Scroll down for Organization Information! &darr;
 </p>
 
-<div align-items="center">
+<div margin="auto">
   <img src="https://github.com/CAVESMP/.github/blob/main/profile/they_are_ready_only_logo.png">
 </div>
 
