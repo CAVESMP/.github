@@ -2,8 +2,8 @@
   &darr; Scroll down for Organization Information! &darr;
 </p>
 
-![Some of the members of Season 2](https://github.com/CAVESMP/.github/blob/main/profile/they_are_ready_only_logo.png)
-<p align="right">
+![S2 poster](https://github.com/CAVESMP/.github/blob/main/profile/they_are_ready_only_logo.png)
+<p align="center">
   The CAVESMP is a private modded Minecraft Java Edition server with storyline events
 </p>
 
