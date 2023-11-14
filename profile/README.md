@@ -3,7 +3,7 @@
 </p>
 
 ![Some of the members of Season 2](https://github.com/CAVESMP/.github/blob/main/profile/they_are_ready_only_logo.png)
-<p align="center">
+<p align="right">
   The CAVESMP is a private modded Minecraft Java Edition server with storyline events
 </p>
 
